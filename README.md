@@ -3,10 +3,8 @@ yt-dlp fork with a simple and efficient .bat file
 
 ___
 
-Download and put in "data" folder the latest yt-dlp and ffmpeg bin
+Download and put in "data" folder (in the same path as the .bat file) the latest of:
 
-https://github.com/yt-dlp/yt-dlp/releases
+- yt-dlp --> https://github.com/yt-dlp/yt-dlp/releases
 
-and
-
-https://github.com/GyanD/codexffmpeg/releases
+- ffmpeg bin in full build version --> https://github.com/GyanD/codexffmpeg/releases
